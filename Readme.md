@@ -5,8 +5,9 @@
 1. [yet-another-cad-viewer](https://github.com/yeicor-3d/yet-another-cad-viewer)
 2. [google-viewer](https://github.com/google/model-viewer)
 3. [Three JS](https://zalo.github.io/CascadeStudio/)
-4. [webgl](https://github.com/Open-Cascade-SAS/OCCT/tree/master/samples/webgl)
-5. [OCCT WebGL Sample](https://cdobrescu.github.io/occt-webgl/occt-webgl-sample.html)
+4. [bernhard-42/three-cad-viewer](https://github.com/bernhard-42/three-cad-viewer)
+5. [webgl](https://github.com/Open-Cascade-SAS/OCCT/tree/master/samples/webgl)
+6. [OCCT WebGL Sample](https://cdobrescu.github.io/occt-webgl/occt-webgl-sample.html)
 
 ## OCCT Bindings
 
