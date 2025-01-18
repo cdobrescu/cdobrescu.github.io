@@ -14,6 +14,7 @@
 ### [**Javascript** opencascade.js](https://ocjs.org/)
 
 1. [Web - JS Cascade Studio](z)
+2. [replicad](https://github.com/sgenoud/replicad)
 
 ### [**Python** cad-query](https://cadquery.readthedocs.io/en/latest/)
 1. [Web - Python - CQ-Studio](https://github.com/ccazabon/cq-studio)
