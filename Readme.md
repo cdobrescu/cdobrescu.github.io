@@ -13,9 +13,11 @@
 
 ### [**Javascript** opencascade.js](https://ocjs.org/)
 
-1. [Web - JS Cascade Studio](z)
+1. [Web - JS Cascade Studio](https://zalo.github.io/CascadeStudio/)
 2. [replicad](https://github.com/sgenoud/replicad)
 3. [chill3d](https://github.com/xiangechen/chili3d)
+4. [OCCT Draw Harness](https://github.com/gkv311/occt-draw/tree/master)
+
 ### [**Python** cad-query](https://cadquery.readthedocs.io/en/latest/)
 1. [Web - Python - CQ-Studio](https://github.com/ccazabon/cq-studio)
 2. [Native PyQT - CadQuery Editor](https://github.com/CadQuery/CQ-editor)
